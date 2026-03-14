@@ -8,6 +8,12 @@ A futuristic cyberpunk-themed map application built with Flutter using **100% FR
 ## 🎥 YouTube Demo
 [Watch Video](YOUR_YOUTUBE_LINK_HERE)
 
+## 📸 Screenshots
+
+| Dark Mode | Clean | OSM |
+|-----------|------------|------------------|
+| ![Dark](assets/dark.png) | ![Light](assets/clean.png) | ![Details](assets/OSM.png) |
+
 ## ✨ Features
 
 - 🗺️ **Real Maps** - OpenStreetMap & CARTO (completely free, no API keys)
@@ -37,17 +43,3 @@ flutter pub get
 
 # Run the app
 flutter run
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
