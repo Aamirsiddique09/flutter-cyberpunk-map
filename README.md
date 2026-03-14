@@ -1,4 +1,3 @@
-# mapui
 # 🌃 Neo-Tokyo Map | Flutter Cyberpunk Map App
 
 A futuristic cyberpunk-themed map application built with Flutter using **100% FREE real maps** - no API keys required!
